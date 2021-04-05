@@ -1,5 +1,5 @@
 
-TOKEN = "ODI3MjIzMTI4NDI0ODQxMjI4.YGX5kg.JuE0l4XXDeoa0ueehK6kpMzMqrs"
+TOKEN = "TOKEN HERE"
 
 import discord
 import asyncio
@@ -146,9 +146,3 @@ async def show_links(ctx):
   await display.clear_reactions()
 
 client.run(TOKEN)
-
-"""
-TO DO LIST:
-Make !unlink default to unlinking all, but you can also unlike certain roles if <&@ > is found.
-Settable moderator role, only the people with this moderator role can use the commands
-"""
