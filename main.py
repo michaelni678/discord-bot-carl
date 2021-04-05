@@ -120,6 +120,7 @@ async def on_voice_state_update(ctx, before, after):
 client.link_pages = list()
 
 @client.command()
+@commands.has_permissions(administrator=True)
 async def show_links(ctx):
   display_page = 1
   for link in client.links:
