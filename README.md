@@ -1,6 +1,6 @@
 # CaRL
 CaRL, or "Channel and Role Linker", is a discord bot that links channels with roles.<br/>
-If you don't like reading, watch a video demonstration of the bot with the link below.<br/>
+Watch the video below for a more in-depth explanation on the bot.<br/>
 youtu.be/yi9PraFKhS4<br/>
 Commands<br/>
 !help - shows a help message<br/>
